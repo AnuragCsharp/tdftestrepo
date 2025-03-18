@@ -1,0 +1,92 @@
+{
+  "result": [
+    {
+      "message": "Hello, Dereck! Your order number is: #17",
+      "phoneNumber": "1-359-287-1935",
+      "phoneVariation": "+90 332 351 10 32",
+      "status": "active",
+      "name": {
+        "first": "Golden",
+        "middle": "Riley",
+        "last": "Daugherty-Romaguera"
+      },
+      "username": "Golden-Daugherty-Romaguera",
+      "password": "ZUcyOADjk76yQmE",
+      "emails": [
+        "Barrett_Stark@example.com",
+        "Miguel9@example.com"
+      ],
+      "location": {
+        "street": "7618 Yasmin Park",
+        "city": "Charlotte",
+        "state": "Georgia",
+        "country": "Bhutan",
+        "zip": "19953-8419",
+        "coordinates": {
+          "latitude": "79.2029",
+          "longitude": "-105.8768"
+        }
+      },
+      "website": "https://any-mess.org/",
+      "domain": "forthright-pumpkinseed.org",
+      "job": {
+        "title": "Legacy Intranet Officer",
+        "descriptor": "Internal",
+        "area": "Metrics",
+        "type": "Administrator",
+        "company": "Cruickshank Inc"
+      },
+      "creditCard": {
+        "number": "3552-2482-6024-7680",
+        "cvv": "230",
+        "issuer": "maestro"
+      },
+      "uuid": "80e3d367-a0c0-4984-930f-803c0e1eb9cb",
+      "objectId": "67d6eab35d8ecfe5281137da"
+    },
+    {
+      "message": "Hello, Lauryn! Your order number is: #41",
+      "phoneNumber": "(245) 688-5248",
+      "phoneVariation": "+90 371 327 10 19",
+      "status": "disabled",
+      "name": {
+        "first": "Dwight",
+        "middle": "Arden",
+        "last": "Stamm"
+      },
+      "username": "Dwight-Stamm",
+      "password": "x7_CyIpWYIxg0sZ",
+      "emails": [
+        "Ramiro.Jaskolski66@example.com",
+        "Jairo.Thompson@example.com"
+      ],
+      "location": {
+        "street": "974 West Avenue",
+        "city": "Mrazfurt",
+        "state": "Oregon",
+        "country": "Israel",
+        "zip": "82032-4453",
+        "coordinates": {
+          "latitude": "72.1212",
+          "longitude": "-95.4619"
+        }
+      },
+      "website": "https://dim-kind.com",
+      "domain": "pale-fondue.com",
+      "job": {
+        "title": "Dynamic Brand Representative",
+        "descriptor": "National",
+        "area": "Division",
+        "type": "Liaison",
+        "company": "Thompson - Kub"
+      },
+      "creditCard": {
+        "number": "5038-0242-3291-7158",
+        "cvv": "843",
+        "issuer": "visa"
+      },
+      "uuid": "f9c520f6-b9a5-47a5-aecf-61ec6c693caa",
+      "objectId": "67d6eab35d8ecfe5281137db"
+    }
+  ]
+}
